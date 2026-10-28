@@ -3,4 +3,4 @@
 
 |领域|书名|详细信息|
 |-|-|-|
-|编程|Rust程序设计语言||
+|编程|Rust程序设计语言|<https://github.com/Gms-kj/books/blob/main/info/Rust%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80.md>|
